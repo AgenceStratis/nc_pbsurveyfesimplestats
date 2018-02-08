@@ -1,0 +1,16 @@
+plugin {
+	tx_ncpbsurveyfesimplestats_pi1 {
+		pid = 0
+		templateFile = EXT:nc_pbsurveyfesimplestats/Resources/Private/Templates/template.html
+		answers {
+			stdWrap {
+				crop = 100 | ... |1
+			}
+		}
+		questions {
+			stdWrap {
+				crop = 200 | ... |1
+			}
+		}
+	}
+}

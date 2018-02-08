@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3locallang>
+	<meta type="array">
+		<description>Frontend language labels for pbsurvey simple stats</description>
+		<type>module</type>
+		<fileId>EXT:nc_pbsurveyfesimplestats/pi1/locallang.xml</fileId>
+		<ext_filename_template>EXT:nc_pbsurveyfesimplestats/pi1/###LANGKEY###.locallang.xml</ext_filename_template>
+		<labelContext type="array">
+		</labelContext>
+	</meta>
+	<data type="array">
+		<languageKey index="default" type="array">
+			<label index="label_respondents">Total respondents:</label>
+			<label index="label_no_results">There are no results on this page</label>
+		</languageKey>
+		<languageKey index="nl" type="array">
+			<label index="label_respondents">Aantal respondenten:</label>
+			<label index="label_no_results">Er zijn geen resultaten beschikbaar voor deze pagina</label>
+		</languageKey>
+	</data>
+	<orig_hash type="array">
+	</orig_hash>
+	<orig_text type="array">
+	</orig_text>
+</T3locallang>

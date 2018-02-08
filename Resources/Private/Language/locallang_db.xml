@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3locallang>
+	<data type="array">
+		<languageKey index="default" type="array">
+			<label index="tx_ncpbsurveyfesimplestats_pluginname">Simple Survey Stats</label>
+			<label index="tx_ncpbsurveyfesimplestats_plugindescription">Display statistics for closed type questions generated from results of pbsurvey</label>
+		</languageKey>
+	</data>
+</T3locallang>
